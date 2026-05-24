@@ -32,7 +32,7 @@ export STARSHIP_CONFIG="$ZDOTDIR/starship.toml"
 
 
 # PATH
-export PATH="$HOME/.npm-global/bin:/usr/local/go/bin:$HOME/go/bin:$HOME/.local/bin:$PATH"
+export PATH="$HOME/.npm-global/bin:/usr/local/go/bin:$HOME/go/bin:$HOME/.local/bin:$HOME/flutter/bin:$PATH"
 
 # Go
 #export GOROOT=/usr/local/go
