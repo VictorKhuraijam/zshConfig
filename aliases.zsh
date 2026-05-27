@@ -16,7 +16,7 @@ alias Tourism="cd ~/wsl_ubuntu_files/CodeXp/Work-Project/Tourism"
 compdef eza=ls
 
 # Better cat
-alias cat='bat'
+#alias cat='bat'
 
 # =========================================================
 # Core utilities
