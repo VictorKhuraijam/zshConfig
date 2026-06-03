@@ -10,7 +10,9 @@ alias la='eza -lah --icons --git'
 # Tree view
 alias tree='eza --tree --icons'
 
+# Custom
 alias Tourism="cd ~/wsl_ubuntu_files/CodeXp/Work-Project/Tourism"
+alias Go="templ generate && go run ."
 
 # Reuse ls completions for eza (avoids defining a separate completion function)
 compdef eza=ls
